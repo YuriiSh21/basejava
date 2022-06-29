@@ -1,7 +1,7 @@
 /**
  * Array based storage for Resumes
  */
-public class ArrayStorage {
+public class ArrayStorage {     //initial commit
     Resume[] storage = new Resume[10000];
 
     void clear() {
